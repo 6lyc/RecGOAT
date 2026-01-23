@@ -1,5 +1,5 @@
 ## Data
-Text features and image features can be downloaded from the following link: [Baby/Sports/Elec](https://drive.google.com/drive/folders/13cBy1EA_saTUuXxVllKgtfci2A09jyaG?usp=sharing)
+Text features and image features can be downloaded from the open-source google dirve or github repo.
 
 Please download the `text_feat.npy` and `image_feat.npy` files to this directory. 
 
